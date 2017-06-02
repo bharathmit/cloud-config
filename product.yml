@@ -13,4 +13,7 @@ security:
       accessTokenUri: http://localhost:8090/uaa/oauth/token
       grant-type: client_credentials
       scope: server
-      
+
+management:
+    security:
+        enabled: true
