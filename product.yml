@@ -17,3 +17,7 @@ security:
 management:
     security:
         enabled: true
+info:
+  app:
+    name: Product Service Application
+    description: Product Management Service.
