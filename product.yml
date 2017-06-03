@@ -20,4 +20,4 @@ management:
 info:
   app:
     name: Product-Service Spring Boot Application
-    description: Product Management
+    description: Product Management End Point
