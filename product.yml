@@ -16,7 +16,7 @@ security:
 
 management:
     security:
-        enabled: true
+        enabled: false
 info:
   app:
     name: Product-Service Spring Boot Application
