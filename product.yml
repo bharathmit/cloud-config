@@ -19,5 +19,5 @@ management:
         enabled: false
 info:
   app:
-    name: Product-Service Spring Boot Application
+    name: Spring Boot Product-Service Application
     description: Product Management End Point
