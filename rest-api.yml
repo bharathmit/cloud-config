@@ -6,5 +6,5 @@ management:
         enabled: false
 info:
   app:
-    name: Spring Boot REST-API Application
-    description: REST-API Management End Point
+    name: Spring Boot REST-API Application Project
+    description: REST-API  End Point Management
