@@ -8,6 +8,6 @@ management:
         enabled: false
 info:
   app:
-    name: Spring Boot REST-API Application
+    name: Spring Boot RESTAPI Application
     description: REST-API Management End Point
       
