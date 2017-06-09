@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: rest-api
+  
+
+management:
+    security:
+        enabled: false
+info:
+  app:
+    name: Spring Boot REST-API Application
+    description: REST-API Management End Point
+      
