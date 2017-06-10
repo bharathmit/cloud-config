@@ -6,6 +6,5 @@ spring:
   jpa.properties.hibernate.show_sql: true
 server:
   context-path: /uaa
-  port: 8090
-
+ 
   
