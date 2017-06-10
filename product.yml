@@ -17,9 +17,5 @@ security:
 management:
     security:
         enabled: false
-info:
-  app:
-    name: Spring Boot Product-Service Application
-    description: Product Management End Point
 
 eureka.client.healthcheck.enabled: true
