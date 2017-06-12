@@ -17,5 +17,9 @@ security:
 management:
     security:
         enabled: false
+info:
+  app:
+    name: Product-Service Application
+    description: ${info.app.name} is Running on ${server.port} port
 
 eureka.client.healthcheck.enabled: true
