@@ -19,7 +19,7 @@ management:
         enabled: false
 info:
   app:
-    name: Product Spring Boot Application
+    name: Product Application
     description: ${info.app.name} is Running on ${server.port} port
 
 
