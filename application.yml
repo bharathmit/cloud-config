@@ -17,11 +17,6 @@ hystrix:
           thread:
             timeoutInMilliseconds: 10000
             
-endpoints.enabled: true
-
-endpoints:
-    info.enabled: true
-    health.enabled: true
     
 security:
   oauth2:
