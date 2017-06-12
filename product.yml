@@ -19,7 +19,7 @@ management:
         enabled: false
 info:
   app:
-    name: Product Application
+    name: Product Spring Boot Application
     description: ${info.app.name} is Running on ${server.port} port
 
 eureka.client.healthcheck.enabled: true
