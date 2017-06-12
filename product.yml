@@ -22,4 +22,4 @@ info:
     name: Product Spring Boot Application
     description: ${info.app.name} is Running on ${server.port} port
 
-eureka.client.healthcheck.enabled: true
+
