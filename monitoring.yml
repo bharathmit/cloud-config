@@ -1,7 +1,10 @@
 spring:
   application:
     name: monitoring  
-     
+
+management:
+    security:
+        enabled: false
 info:
   app:
     name: Monitoring Application
