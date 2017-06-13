@@ -2,4 +2,7 @@ spring:
   application:
     name: monitoring  
      
-  
+info:
+  app:
+    name: Monitoring REST API Application
+    description: ${info.app.name} is Running on ${server.port} port
