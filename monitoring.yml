@@ -7,5 +7,5 @@ management:
         enabled: false
 info:
   app:
-    name: Monitoring RESt API Application
+    name: Monitoring  Application
     description: ${info.app.name} is Running on ${server.port} port
