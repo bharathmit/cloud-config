@@ -8,6 +8,6 @@ management:
 
 info:
   app:
-    name: Zipkin-Server Application
+    name: Zipkin Application
     description: ${info.app.name} is Running on ${server.port} port
       
