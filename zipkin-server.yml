@@ -2,4 +2,8 @@ spring:
   application:
     name: zipkin-server
   
+info:
+  app:
+    name: Zipkin Application
+    description: ${info.app.name} is Running on ${server.port} port
       
