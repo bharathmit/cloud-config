@@ -1,7 +1,11 @@
 spring:
   application:
-    name: zipkin-server
-  
+    name: zipkin-server 
+
+management:
+    security:
+        enabled: false
+
 info:
   app:
     name: Zipkin Application
