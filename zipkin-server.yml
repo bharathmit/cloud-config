@@ -8,6 +8,6 @@ management:
 
 info:
   app:
-    name: Zipkin Tracking Application
+    name: Zipkin Spring Boot Tracking Application
     description: ${info.app.name} is Running on ${server.port} port
       
