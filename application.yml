@@ -17,9 +17,4 @@ hystrix:
           thread:
             timeoutInMilliseconds: 10000
             
-    
-security:
-  oauth2:
-    resource:
-      user-info-uri: http://localhost:8090/uaa/users/current
                   
