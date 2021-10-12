@@ -13,5 +13,3 @@ info:
     name: Product Application
     description: ${info.app.name} is Running on ${server.port} port
 
-hystrix.command.default.circuitBreaker.requestVolumeThreshold: 5
-
